@@ -1,0 +1,5 @@
+draw_set_font(fonte)
+draw_set_halign(fa_center)
+draw_set_colour(c_black)
+draw_text_transformed(room_width, 156*2, "GAME OVER", 1.75, 1.75, 0)
+draw_text_transformed(room_width, 176*2, "Aperte ESPAÇO para tentar novamente.", 1.75, 1.75, 0)
